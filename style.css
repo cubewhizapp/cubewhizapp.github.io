@@ -16,3 +16,5 @@ a { color: var(--accent); }
 .button:hover { opacity:0.9; }
 @media (prefers-color-scheme: dark) { .button { color:#1A1F36; } }
 nav { margin-top: 40px; display:flex; gap:18px; flex-wrap: wrap; }
+
+.hero { display:block; width:100%; height:auto; border-radius:20px; margin:28px 0 8px; }
